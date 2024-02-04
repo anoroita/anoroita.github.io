@@ -79,5 +79,4 @@ Lightweight plugin to render simple, animated and retina optimized pie charts
 
 ISSUES
 
-- Not sending emails - Contact form
-- 
+- No issues
