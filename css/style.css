@@ -509,6 +509,14 @@ ol.type li a:hover {
 .timeline .timeline-body>p, .timeline .timeline-body>ul {
 	margin-bottom: 0;
 }
+
+/* certs */
+#card-image {
+	width: 100px;
+	height: 100px;
+}
+
+
 /* Contact Section */
 #contact {
 	padding: 100px 0 40px 0;
