@@ -73,7 +73,7 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #c40303;
+	background: #008da6;
 	margin: 0 auto;
 	margin-bottom: 30px;
 	border: 0;
@@ -205,7 +205,7 @@ hr {
 /* Skills Section */
 #skills {
 	padding: 100px 0;
-	background: #121d1f;
+	background: #008da6;
 }
 #skills h2 {
 	color: #fff;
@@ -503,7 +503,7 @@ ol.type li a:hover {
 }
 .timeline .timeline-heading h4.subheading {
 	text-transform: none;
-	color: #c40303;
+	color: #009cac;
 	font-size: 20px;
 }
 .timeline .timeline-body>p, .timeline .timeline-body>ul {
@@ -514,7 +514,7 @@ ol.type li a:hover {
 #contact {
 	padding: 100px 0 40px 0;
 	color: #fff;
-	background: #121d1f;
+	background: #008da6;
 }
 #contact h2 {
 	color: #fff;
